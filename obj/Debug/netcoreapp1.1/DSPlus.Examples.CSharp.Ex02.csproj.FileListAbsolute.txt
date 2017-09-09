@@ -1,0 +1,8 @@
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/bin/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.deps.json
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/bin/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.runtimeconfig.json
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/bin/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.runtimeconfig.dev.json
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/bin/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.dll
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/bin/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.pdb
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/obj/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.AssemblyInfo.cs
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/obj/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.dll
+/home/josh/Documents/DSharpPlus-Example-Bot/DSPlus.Examples.CSharp.Ex02/obj/Debug/netcoreapp1.1/DSPlus.Examples.CSharp.Ex02.pdb
